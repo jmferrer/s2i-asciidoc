@@ -1,4 +1,4 @@
-[[s2i-asciidoc-builder-image]]
+
 S2I Asciidoc Builder Image
 --------------------------
 
@@ -9,7 +9,6 @@ using a simple HTTP server.
 By default the builder looks for Asciidoc files in the `adoc` folder in
 the source repository.
 
-[[usage]]
 Usage
 ~~~~~
 
@@ -78,5 +77,3 @@ file into the text box
 
 Now whenever you go back to the ``Add to Project'' screen there should
 be an entry for the ``Asciidoc Builder''.
-
-include::topics/using-shared-topic-dir.adoc[leveloffset=+1]
